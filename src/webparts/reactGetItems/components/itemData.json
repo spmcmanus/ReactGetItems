@@ -1,0 +1,46 @@
+[
+    {  "incidentNumber": "1001", 
+        "incidentTitle" : "Head Injury Falling in Hole",
+        "createdBy": "Thomas DeGent",
+        "location": "Chicago",
+        "incidentDate":"07/01/2017",
+        "type":"type 1",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan scelerisque nisl eget auctor. Pellentesque iaculis erat elit, ut cursus lectus lobortis nec. Sed blandit blandit augue eget sodales. Phasellus vehicula nisi et sem elementum tincidunt. Donec mattis auctor odio maximus imperdiet. Donec volutpat erat vitae scelerisque facilisis. Aliquam at nibh mi. Curabitur volutpat sagittis velit, quis gravida augue. Sed ac tellus at nisi condimentum tempus. Sed eget egestas orci. Vestibulum ultricies, augue non fermentum molestie, diam diam vulputate odio, iaculis dapibus mauris nisl a urna. Donec tincidunt elit vitae sagittis elementum. Phasellus consequat id lectus quis euismod. Proin ut erat sagittis, cursus purus ut, gravida risus. Pellentesque cursus, mauris sed bibendum luctus, odio ante tempus orci, ac pharetra leo turpis vel eros. Vestibulum rhoncus cursus dapibus."
+    },
+    { 
+        "incidentNumber": "1002", 
+        "incidentTitle" : "Vehicle Collision with Property",
+        "createdBy": "Cyril Gautier",
+        "location": "Schaumburg",
+        "incidentDate":"07/01/2017",
+        "type":"type2",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan scelerisque nisl eget auctor. Pellentesque iaculis erat elit, ut cursus lectus lobortis nec. Sed blandit blandit augue eget sodales. Phasellus vehicula nisi et sem elementum tincidunt. Donec mattis auctor odio maximus imperdiet. Donec volutpat erat vitae scelerisque facilisis. Aliquam at nibh mi. Curabitur volutpat sagittis velit, quis gravida augue. Sed ac tellus at nisi condimentum tempus. Sed eget egestas orci. Vestibulum ultricies, augue non fermentum molestie, diam diam vulputate odio, iaculis dapibus mauris nisl a urna. Donec tincidunt elit vitae sagittis elementum. Phasellus consequat id lectus quis euismod. Proin ut erat sagittis, cursus purus ut, gravida risus. Pellentesque cursus, mauris sed bibendum luctus, odio ante tempus orci, ac pharetra leo turpis vel eros. Vestibulum rhoncus cursus dapibus." 
+    },
+        { 
+        "incidentNumber": "1003", 
+        "incidentTitle" : "Vehicle Collision with Property",
+        "createdBy": "Cyril Gautier",
+        "location": "Schaumburg",
+        "incidentDate":"07/01/2017",
+        "type":"type2",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan scelerisque nisl eget auctor. Pellentesque iaculis erat elit, ut cursus lectus lobortis nec. Sed blandit blandit augue eget sodales. Phasellus vehicula nisi et sem elementum tincidunt. Donec mattis auctor odio maximus imperdiet. Donec volutpat erat vitae scelerisque facilisis. Aliquam at nibh mi. Curabitur volutpat sagittis velit, quis gravida augue. Sed ac tellus at nisi condimentum tempus. Sed eget egestas orci. Vestibulum ultricies, augue non fermentum molestie, diam diam vulputate odio, iaculis dapibus mauris nisl a urna. Donec tincidunt elit vitae sagittis elementum. Phasellus consequat id lectus quis euismod. Proin ut erat sagittis, cursus purus ut, gravida risus. Pellentesque cursus, mauris sed bibendum luctus, odio ante tempus orci, ac pharetra leo turpis vel eros. Vestibulum rhoncus cursus dapibus." 
+    },
+        { 
+        "incidentNumber": "1004", 
+        "incidentTitle" : "Vehicle Collision with Property",
+        "createdBy": "Cyril Gautier",
+        "location": "Schaumburg",
+        "incidentDate":"07/01/2017",
+        "type":"type2",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan scelerisque nisl eget auctor. Pellentesque iaculis erat elit, ut cursus lectus lobortis nec. Sed blandit blandit augue eget sodales. Phasellus vehicula nisi et sem elementum tincidunt. Donec mattis auctor odio maximus imperdiet. Donec volutpat erat vitae scelerisque facilisis. Aliquam at nibh mi. Curabitur volutpat sagittis velit, quis gravida augue. Sed ac tellus at nisi condimentum tempus. Sed eget egestas orci. Vestibulum ultricies, augue non fermentum molestie, diam diam vulputate odio, iaculis dapibus mauris nisl a urna. Donec tincidunt elit vitae sagittis elementum. Phasellus consequat id lectus quis euismod. Proin ut erat sagittis, cursus purus ut, gravida risus. Pellentesque cursus, mauris sed bibendum luctus, odio ante tempus orci, ac pharetra leo turpis vel eros. Vestibulum rhoncus cursus dapibus." 
+    },
+    { 
+        "incidentNumber": "1005", 
+        "incidentTitle" : "Near Miss with falling beam",
+        "createdBy": "Michael Matthews",
+        "location": "Lakeville",
+        "incidentDate":"07/01/2017",
+        "type":"type 3",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan scelerisque nisl eget auctor. Pellentesque iaculis erat elit, ut cursus lectus lobortis nec. Sed blandit blandit augue eget sodales. Phasellus vehicula nisi et sem elementum tincidunt. Donec mattis auctor odio maximus imperdiet. Donec volutpat erat vitae scelerisque facilisis. Aliquam at nibh mi. Curabitur volutpat sagittis velit, quis gravida augue. Sed ac tellus at nisi condimentum tempus. Sed eget egestas orci. Vestibulum ultricies, augue non fermentum molestie, diam diam vulputate odio, iaculis dapibus mauris nisl a urna. Donec tincidunt elit vitae sagittis elementum. Phasellus consequat id lectus quis euismod. Proin ut erat sagittis, cursus purus ut, gravida risus. Pellentesque cursus, mauris sed bibendum luctus, odio ante tempus orci, ac pharetra leo turpis vel eros. Vestibulum rhoncus cursus dapibus."
+    }
+]

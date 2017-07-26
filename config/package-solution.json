@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-get-items-client-side-solution",
+    "id": "4b87843a-c3f6-4c44-89ef-d8a9fdaa2bff",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-get-items.sppkg"
+  }
+}

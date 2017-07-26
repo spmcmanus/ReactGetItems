@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactGetItems/ReactGetItemsWebPart.js",
+      "manifest": "./src/webparts/reactGetItems/ReactGetItemsWebPart.manifest.json",
+      "outputPath": "./dist/react-get-items.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactGetItemsStrings": "webparts/reactGetItems/loc/{locale}.js"
+  }
+}

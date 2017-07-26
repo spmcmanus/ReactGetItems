@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "396e566f-cf95-4f2f-be5e-659d4e30db6e",
+  "alias": "ReactGetItemsWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "396e566f-cf95-4f2f-be5e-659d4e30db6e",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ReactGetItems" },
+    "description": { "default": "ReactGetItems description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ReactGetItems"
+    }
+  }]
+}
